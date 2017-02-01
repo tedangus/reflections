@@ -1,0 +1,13 @@
+I found that looking at both files side-by-side was useful for identifying quickly and visually the differences,
+mostly because the lines were few in number.
+
+Having older versions of a file on hand is very useful for me because it will allow me to restore a version if I have 
+made a mistake or there has been a problem.
+
+Git saves across multiple files because it is intended for integrated software products, no standalone scripts.
+
+One can use git log to see the changes made to files over the course of its git history, diff shows the specifics of what was changed.
+
+Using version control would make me more confident to add changes that might break the code because I can return to the working version easily and visibly.
+
+I want to use git in order to streamline the FPInnovations Computed Tomography reconstruction code.

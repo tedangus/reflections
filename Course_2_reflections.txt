@@ -1,0 +1,1 @@
+Git init opened up a brand git direcory within the directory I was inside, but did not add any files to that directory.
