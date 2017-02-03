@@ -1,3 +1,11 @@
 Git init opened up a brand git direcory within the directory I was inside, but did not add any files to that directory.
 
 The staging area allows for one to carefully see what they are going to add to the git repository and to do this all in one action.
+
+You can make sure that you only have one change per commit with the add feature
+
+Branches are useful if one is testing a major change to their current code
+
+The diagrams help in being able to see where the git log and checkout operators will impact the flow of the code.
+
+Having manual merging allows for one to avoid unwanted circumstances in merging two files together, it keeps the code clean.
