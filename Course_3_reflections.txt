@@ -1,1 +1,3 @@
 This is the new course three reflections. Pushing commits up to git. Now adding a comment to pull...
+
+It is usefull to manually pull from thte repository because you would want to make changes to code bud not have them automatically overwritten and/or altered.
