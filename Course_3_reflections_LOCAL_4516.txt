@@ -1,10 +1,9 @@
 This is the new course three reflections. Pushing commits up to git. Now adding a comment to pull...
+
 A clone is a copy of a git repository that gives one something to work on inside of the local directory, a branch may be made of this clone to work on parallel versions of files. Finally, a fork may be made of a Github directory to another directory on Github to clone from.
 
 The benefit of having a last known copy of the remote stored locally is that you may compare changes made by a collaborator with whatever you had on your local before you went offline.
 
 In order to collaborate without git and/or github, one would need to use either an alternate DVCS (equivalent) a VCS that is centralized, or be in constant communication with other developers.
 
-Making a change in a seperate branch will allow for you to keep you master branch up to date with any remotes.
-
-It is usefull to manually pull from thte repository because you would want to make changes to code bud not have them automatically overwritten and/or altered.
+aking a change in a seperate branch will allow for you to keep you master branch up to date with any remotes.
